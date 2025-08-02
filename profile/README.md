@@ -247,6 +247,6 @@ For business inquiries, partnerships, or support:
 
 <br>
 
-**© 2024 Thynkzone. Empowering Digital Transformation.**
+**© 2021-2030 Thynkzone. Empowering Digital Transformation.**
 
 </div>
