@@ -181,7 +181,7 @@ We build applications that can grow with our users' needs, using modern framewor
 
 | **Metric** | **Value** |
 |------------|-----------|
-| **Total Applications** | 6+ Active Apps |
+| **Total Applications** | 7 Active Apps |
 | **Google Play Presence** | Verified Developer |
 | **Market Focus** | Bangladesh & Global |
 | **User Categories** | Enterprise, Education, Gaming, Social |
