@@ -13,7 +13,7 @@
 <br>
 
 [![Google Play Developer](https://img.shields.io/badge/Google_Play_Developer-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8119327823083772826&hl=en-US)
-[![Active Apps](https://img.shields.io/badge/Active_Apps-6-success?style=for-the-badge)](https://play.google.com/store/apps/dev?id=8119327823083772826&hl=en-US)
+[![Active Apps](https://img.shields.io/badge/Active_Apps-7-success?style=for-the-badge)](https://play.google.com/store/apps/dev?id=8119327823083772826&hl=en-US)
 [![Platform Focus](https://img.shields.io/badge/Platform-Android-brightgreen?style=for-the-badge&logo=android&logoColor=white)]()
 
 </div>
