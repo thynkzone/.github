@@ -98,10 +98,38 @@ const company = {
 
 ---
 
-### **🎯 Specialized Applications**
+#### **[Melissa - Friend.AI](https://melissa-ai.netlify.app)**
+> Intelligent AI companion with advanced fallback intelligence and real-time conversational capabilities.
 
-#### **Melissa - Friend.AI**
-> AI-powered friendship and social companion application
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://melissa-ai.netlify.app)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.thynkzone.melissa)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazidulfarabi/melissa-ai)
+
+</div>
+
+**Key Features:**
+- **Dual API Intelligence** with automatic fallback between primary and backup keys
+- **Real-Time Status Monitoring** with smart online/offline indicators
+- **Context-Aware Conversations** using chat history integration
+- **Local Response Optimization** for instant common interactions
+- **Smart Error Recovery** with rate limit detection and user-friendly messages
+- **Cost-Efficient AI** with token optimization (max 80 tokens per response)
+
+**Target Users:**
+- Individuals seeking AI companionship and conversation
+- Users wanting intelligent chat without complex setup
+- People looking for reliable AI interaction with fallback protection
+- Anyone needing a smart, responsive AI friend available 24/7
+
+**AI Intelligence:**
+- **Mistral 7B Model** via OpenRouter for natural conversations
+- **Pattern Recognition** for instant responses to common greetings
+- **Self-Healing System** that automatically recovers when API limits reset
+- **Predictive Fallback** that switches API keys before failures occur
+
+---
 
 #### **Cardwords: Vocabulary Practise**
 > Educational app for vocabulary building and language learning
