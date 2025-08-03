@@ -131,23 +131,23 @@ const company = {
 
 ---
 
-### **📱 Single-Purpose Applications*
+### **📱 Single-Purpose Applications**
 
 #### **Penalty Reflex**
 > Sports-themed mobile gaming application  
-[Play Store Link](https://play.google.com/store/apps/details?id=com.thynkzone.penaltyreflex&hl=en-US)
+[Google Play](https://play.google.com/store/apps/details?id=com.thynkzone.penaltyreflex&hl=en-US)
 
 #### **Cardwords: Vocabulary Practise**
 > Educational app for vocabulary building and language learning  
-[Play Store Link](https://play.google.com/store/apps/details?id=com.thynkzone.cardwords&hl=en-US)
+[Google Play](https://play.google.com/store/apps/details?id=com.thynkzone.cardwords&hl=en-US)
 
 #### **DoggosEat: Food Review BD**
 > Local food review platform focused on Bangladesh market  
-[Play Store Link](https://play.google.com/store/apps/details?id=com.thynkzone.doggoseat&hl=en-US)
+[Google Play](https://play.google.com/store/apps/details?id=com.thynkzone.doggoseat&hl=en-US)
 
 #### **Quotastic**
 > Inspirational quotes and motivation platform  
-[Play Store Link](https://play.google.com/store/apps/details?id=com.thynkzone.quotastic&hl=en-US)
+[Google Play](https://play.google.com/store/apps/details?id=com.thynkzone.quotastic&hl=en-US)
 
 </details>
 
