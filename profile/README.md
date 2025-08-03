@@ -44,7 +44,7 @@ const company = {
 
 ### **🏢 Enterprise & Productivity**
 
-#### **[Kormo – Work From Home, Hire From Home](https://kormo.work)**
+#### **[Kormo – Freelancing & Remote Jobs Platform](https://kormo.work)**
 > Bangladesh's first secure, local freelancing platform designed specifically for Bangladeshi talent and businesses.
 
 <div align="center">
@@ -131,17 +131,23 @@ const company = {
 
 ---
 
-#### **Cardwords: Vocabulary Practise**
-> Educational app for vocabulary building and language learning
-
-#### **DoggosEat: Food Review BD**
-> Local food review platform focused on Bangladesh market
+### **📱 Single-Purpose Applications*
 
 #### **Penalty Reflex**
-> Sports-themed mobile gaming application
+> Sports-themed mobile gaming application  
+[Play Store Link](https://play.google.com/store/apps/details?id=com.thynkzone.penaltyreflex&hl=en-US)
+
+#### **Cardwords: Vocabulary Practise**
+> Educational app for vocabulary building and language learning  
+[Play Store Link](https://play.google.com/store/apps/details?id=com.thynkzone.cardwords&hl=en-US)
+
+#### **DoggosEat: Food Review BD**
+> Local food review platform focused on Bangladesh market  
+[Play Store Link](https://play.google.com/store/apps/details?id=com.thynkzone.doggoseat&hl=en-US)
 
 #### **Quotastic**
-> Inspirational quotes and motivation platform
+> Inspirational quotes and motivation platform  
+[Play Store Link](https://play.google.com/store/apps/details?id=com.thynkzone.quotastic&hl=en-US)
 
 </details>
 
